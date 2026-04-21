@@ -1,0 +1,7 @@
+Répartition des tâches :
+
+Guy : 
+- Création de la classe AnalyseurCSV pour la lecture du fichier et le calcul des statistiques (moyenne, minimum, maximum).
+- Création de la classe Main pour gérer l'exécution du programme.
+- Rédaction de la documentation globale (README.md).
+- (Puisque je travaille seul sur ce projet, j'ai assumé l'ensemble des tâches de développement, de structuration et de documentation).
